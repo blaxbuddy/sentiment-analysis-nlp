@@ -31,9 +31,10 @@ ANN                : 88.52%
 DistilBERT         : 86.40%
 
 HOW TO RUN
-pip install pandas numpy matplotlib seaborn scikit-learn
-pip install transformers torch datasets
-Open Sentiment_Analysis_Final.ipynb in Jupyter and run all cells.
+
+->pip install pandas numpy matplotlib seaborn scikit-learn
+->pip install transformers torch datasets
+->Open Sentiment_Analysis_Final.ipynb in Jupyter and run all cells.
 
 AUTHOR
 RAJ JAT — AI Academia AI/ML Internship 2026
